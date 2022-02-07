@@ -7,10 +7,10 @@ This game is made by [Junaid](https://abujuni.dev).
 This game is made by Junaid. installation is provided by [Junaid Apps](apps.abujuni.dev).
 
 ## Index
-- [About](about)
-- [Installation](installation)
-- [Quick Installation](quick-installation)
-- [Full Installation](full-installation)
+- [About](#about)
+- [Installation](#installation)
+- [Quick Installation](#quick-installation)
+- [Full Installation](#full-installation)
 
 ## About
 This game is basic code , but it has better understandable and learnable . It helps people and kids to understand the patten of this game and learn addition and subtraction quickly.
